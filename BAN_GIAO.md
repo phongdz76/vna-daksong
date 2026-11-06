@@ -5,7 +5,7 @@ Tài liệu này được biên soạn cho hai nhóm đối tượng tiếp nh�
 - Mục I: Dành cho người không học IT (Hướng dẫn từng bước trực quan, thao tác đơn giản trên giao diện đồ họa).
 - Mục II: Dành cho lập trình viên và kỹ sư IT (Quy trình dòng lệnh CLI, kiến trúc hệ thống, kiểm thử tự động và triển khai Production).
 
-Kho lưu trữ GitHub: https://github.com/phongdz76/vna-daksong-booking-tour.git
+Kho lưu trữ GitHub: https://github.com/phongdz76/vna-daksong.git
 
 ---
 
@@ -58,7 +58,7 @@ Máy tính Windows của bạn cần có 2 phần mềm miễn phí nền tảng
 
 Khuyên dùng cách tải trực tiếp file nén ZIP để thao tác nhanh nhất bằng chuột:
 1. Mở trình duyệt web và truy cập đường link GitHub của dự án:
-   https://github.com/phongdz76/vna-daksong-booking-tour
+   https://github.com/phongdz76/vna-daksong
 2. Nhấp chuột vào nút màu xanh lá cây có chữ Code ở góc trên bên phải của danh sách tập tin.
 3. Nhấp chọn dòng Download ZIP trong bảng thả xuống.
 4. Mở thư mục Downloads trên máy tính -> Nhấp chuột phải vào file ZIP vừa tải về -> Chọn Extract All... (hoặc Giải nén tại đây).
@@ -206,7 +206,7 @@ Phần này cung cấp đầy đủ thông số kỹ thuật, quy trình dòng l
 
 ```powershell
 # 1. Tải mã nguồn về máy
-git clone https://github.com/phongdz76/vna-daksong-booking-tour.git
+git clone https://github.com/phongdz76/vna-daksong.git
 cd vna-daksong-booking-tour
 
 # 2. Cài đặt các gói phụ thuộc (Clean install)
